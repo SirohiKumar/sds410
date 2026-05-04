@@ -1,0 +1,75 @@
+# Individual Contributor Evaluations
+
+## Quantitative
+(on a scale of 1 - 4; 1 is inadequate, 4 is excellent)
+
+* **Communication**: They communicated kindly and clearly
+* **Quality of Work**: Their work was good - I trust it and it runs as expected
+* **Reliability**: They did they things they said they would do - I didn’t have to worry
+* **Good Teammate**: In general, the team is better for having them on it
+
+| Team member | Communication | Quality of work | Reliability | Good Teammate | Total |
+|-------------|---------------|---------------|------------|-------|----|
+|Alice |4|4|3|4|15|
+|Danyi|4|4|4|4|16|
+|Josey|2|4|4|4|14|
+|Mira|1|1|1|1|4|
+|Seunghyeon|4|4|3|4|15|
+
+## Qualitative
+
+### Alice
+1. **Strength**: Alice's strengths remain the same as those she demonstrated in the first half of the semester. She volunteers to do work and is super organized, much to the benefit of the group. For the last sprint, we moved away from having a rotating note-taker and instead relied on Alice to do that role. She both enjoys it and is very good at it, always ensuring we leave each meeting with action steps and being willing to communicate with CIVIC to ensure we're on the same page as them. She also has a lot of good ideas about our data communication. 
+2. **Weakness**: As we got later in the semester and stress ramps, most of us have other commitments which pull us away from this class. However, where Alice was really good at communicating when she couldn't make things in the first half of the semester, she has been less so recently. When we were meeting with CIVIC to present our MVPs for the second set of  panels, Josey, Alice, and Seunghyeon all weren't present. Seunghyeon told us much earlier that she couldn't make it for thesis-related reasons, but both Josey and Alice just sent messages in the group chat minutes before the meeting saying they couldn't make it and asking me to present their panels, which left Danyi and I to present these panels we hadn't worked on. It went fine, but was frustrating, especially because we'd decided Alice would ask CIVIC a question about Panel 7, which was hers and Seunghyeon's, which I ended up asking despite my unfamiliarity with the area. Along similar lines, I've felt frustrated by her seeming lack of commitment throughout the semester at various times, though never it impeded our work. 
+3. **Growth area**: I don't know that Alice has a growth area, specifically, other than strengthening her communication back to mid-semester level. I think she's a strong asset to any group and have appreciated having her on the team.
+
+### Danyi
+1. **Strength**: I think Danyi's biggest strength is her drive and commitment to getting work done. Often, the group will identify a tweak that needs to be made to the helper script or our documentation, and Danyi will be the person to open her computer and actually make the changes, rather than let the collective action problem paralyze us. She's incredibly dedicated to the work and has repeatedly taken on the bigger/est coding projects this semester. She's an excellent team member and I have really really enjoyed being paired with her on our panels. 
+2. **Weakness**: I cannot identify a single weakness Danyi has. 
+3. **Growth area**: Danyi was PM for our third sprint, which was a slightly strange one because of our MVP deadline was directly in the middle of it. As such, though we were really driven until that point, when we passed the deadline, our work slowed in a strange way. I think a possible growth area for her would be in time management - recognizing that we deserve to pat ourselves on the back for having met the MVP deadline but also that with a week left in the sprint, there are still tasks to be done. 
+
+### Josey
+1. **Strength**: Josey has a lot of strengths as a teammate - they produce high quality work and volunteered to spearhead our documentation process, which I really appreciated as its more tedious work. They're a good public speaker, and were willing to give up some parts of our demo to balance everyone's speaking time. They also had good answers to CIVIC's questions during our sponsor presentation. I also think they provide a good perspective as someone with experience in the subject area of the project - their time on the Hill enabled them to communicate about the workbench well. 
+2. **Weakness**: I think Josey's only weakness was letting their issues with Mira go on for so long without bringing it to the group. Granted, this was partially because they were busy with midterms for other classes, but once we got into mid-April, they should have brought it to the group for discussion, as we've been really squeezed for time to fix Mira's panel now that everyone is aware. They informed Alice early (commiserating) but did not let me or anyone else know until a week into Sprint 4. I think if they'd brought it up earlier, we could have brought Nikko/Megan into it and had a more productive conversation which ensured that the rest of the group didn't have to do extra work to pick up Mira's slack. 
+3. **Growth area**: I don't think Josey has a lot of growth areas, other than what was mentioned above about communicating difficulty earlier. 
+
+### Mira
+1. **Strength**: Mira had strong feedback about the slides when we were creating the demo, and contributes to a positive atmosphere in group settings. 
+2. **Weakness**: Mira's teamwork this semester has been really poor, not only to the detriment of her own experience, but because the group had to navigate around her work (when she did it). She made a singular commitment to the group (she and Josey were working on Panel 6, and she was responsible for improving the Panel 6 MVP with CIVIC's changes) which she not only did not follow through on, but lied about having completed. Then, once she actually did complete the panel (using code that was basically entirely written by Danyi and I), I had to go back through the code with Josey and fix it so that it was generating the correct predictions (she was using MRA instead of YTD amount spent, she was dividing the MRA for each office by 12 for some reason, etc). Her poor communication and low quality work put more stress on the rest of the group, which is why I rated her so low in every category. 
+3. **Growth area**: I recognize that this project wasn't easy - that we were working in a language most of us are unfamiliar with and using unwieldy and complicated data. However, given we all have the same major and took most of the same courses, I find it hard to have sympathy for her. Again, it would have been much less of a problem if she'd communicated honestly with the group that she was struggling, but she didn't, which disadvantaged all of us who thought we could a) rely on her to deliver and b) rely on her work. I think a growth area she needs to really work on is honest communication. 
+
+### Seunghyeon
+1. **Strength**: Seunghyeon is, always, a serious positive force in a groupwork setting. She's consistently reminding us to keep moving forward and to focus on what's going well. She's action-oriented and a good team member. She also took on two panels with basically minimal support from the group and turned them in well ahead of their deadline. She's a very strong teammate and I've really enjoyed working with her. 
+2. **Weakness**: I don't think she has any specific weaknesses, but I marked her down slightly for reliability because, due to her thesis, she was much less present than earlier in the semester. She was always a good communicator when that happened, but sometimes it was clear we were missing her. 
+3. **Growth area**: I think Seunghyeon struggled a bit with the public speaking aspect of the class, which makes sense considering its all in her second language. She did a really good job with the slides she was given time to prepare, but during the demos that we prepared less than our final one, she struggled a bit. 
+
+# Self-evaluation
+
+### 1. Professionalism: A
+
+I learned that rather than taking on the operations of the group on myself, we can create systems that work for everyone. For instance, during our mid-semester feedback session, I brought up having someone assigned to communicate with CIVIC to ensure consistency. I was originally bringing it up so I could volunteer, but it actually worked out that the group came up with a better system - that the person taking notes would be assigned to be our CIVIC liaison as well. Additionally, I feel I've maintained the professionalism I established at mid-semester: I show up to things consistently and on time, I facilitated our meetings (both group and with CIVIC) well when I was PM, and turning in my deliverables with Danyi when they were expected. 
+
+### 2. Independent Problem-Solving: A
+
+Inspired by Danyi, I've worked hard this semester to not let my reluctance to take on extra work keep the group from moving forward. As such, when opportunities to volunteer for something come up (writing documentation for the helper script, converting the helper script from Jupyter Notebook to .py file), I've tried to sign up first or just fix the problem rather than present it to the group so someone can volunteer. I also think that Danyi and I's use of Claude is relevant here. We often hit walls with our programming that we would have been previously paralyzed by and forced to ask the group or a tutor or professor for help with, but we actively chose to engage with all the learning tools we had at our disposal, including Claude, to overcome these difficulties. 
+
+### 3. Collaboration: A
+
+I have become a better collaborator with the group over the course of this project since mid-semester. Specifically, I think I really stepped up when Josey brought the issue with Mira up to me. I met with Mira to discuss what Panel 6 needed to do and wasn't doing, I met with Mira afterward to help her with her Panel 6 code, I met with Josey to go over the Panel 5/Panel 10 code twice, and encouraged them to go to Nikko. All of these things brought us relatively smoothly through the end of the course, which I think is a good example of my collaborative skills. 
+
+
+### 4. Project Planning: A
+
+I feel I've done a good job with project planning as a PM. Specifically, we began the sprint with a list of tasks that had to be completed or documented as incomplete by the time we handed our code over to CIVIC. I have, throughout the sprint, pushed for tasks to get complete, documentation to be complete, and often remembered tasks which we committed to doing but never got to. Under my leadership, we ended the sprint having completed all the panels and with a solid list of stretch items and tasks to build out the workbench's capacity that a future Smith or CIVIC group could easily build off of. 
+
+### 5. Project Execution: A
+
+Much as described in the `Project Planning` block above, I completed my tasks this half of the semester. As PM, I created a timeline for the sprint to deliver on our remaining tasks and have pushed to create a post-end of classes timeline we're currently following before we hand our code over to CIVIC. When it comes to documentation, which I docked myself down for in the midterm review, we've all gotten much more diligent about commenting throughout and I've taken on the project of writing the `README` for Panels 4-5 and the Helper Script. 
+
+### 6. Communication (Written and Oral): A
+
+I originally docked myself down in this category for documentation, which has, as mentioned above, been improved. I also think that I learned from our earlier demos and structured our final demo to include several slides that made it applicable to CIVIC's audience. Specifically, our project takeaways section, data walk-through, and the use of colored boxes to indicate the relevant data. 
+
+### 7. Data Ethics: B+
+
+Prompted by this assignment, I brought up a conversation about ethics to the group for discussion. Specifically, when Danyi and I were doing Panel 5, we were concerned about making a judgement on an office's spending risk levels because we weren't sure our predictions were accurate enough to qualify an office's spending as "high" or "low" risk level. We decided as a group we should inform CIVIC about our concerns, and despite our worries, they were really willing to hear our concern. I don't think that we've fully discussed the ethical implications of the data we're using and the recommendations/analysis we're making/doing, but that we've certainly had more discussions than we had by the middle of the semester.
